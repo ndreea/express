@@ -1,0 +1,24 @@
+
+/* Estilos generales */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* Estilos */
+
+h1 {
+    font-weight: normal;
+    font-size: 10em;
+    color: white;
+    text-shadow: 2px 2px 0 black;
+}
+
