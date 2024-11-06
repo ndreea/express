@@ -1,4 +1,4 @@
-# Ejercicio Express 📚
+# Ejercicio Express
 Este repositorio contiene un ejercicio realizado con Express, desarrollado como práctica de un curso de Back-End. La estructura y el diseño se han realizado utilizando solo JS y Express.
 
 ## Propósito
